@@ -1,0 +1,52 @@
+body{
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.headPlusNav{
+  background-image: url("../images/building.png");
+  height: auto;
+  color: white;
+}
+
+a{
+  font-size: 18px;
+}
+
+h1{
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+
+}
+
+p{
+  font-size: 14px;
+}
+
+.designed{
+  background-image: url("../images/building.png");
+  color: white;
+}
+a{
+  color: white;
+}
+
+footer{
+  background-color: dimgray;
+  text-align: left;
+}
+
+footer p {
+  display: inline;
+  color: white;
+}
